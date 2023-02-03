@@ -7,11 +7,9 @@ plugins {
     id 'org.hidetake.swagger.generator' version '2.18.2'
 }
 
-//group = 'com.packt.modern.api'
 group = 'com.kaisha.modern.api'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.14'
-//sourceCompatibility = '11'
 
 
 swaggerSources {
